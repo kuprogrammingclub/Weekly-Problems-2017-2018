@@ -5,15 +5,18 @@
 Hey all,
 If you have any questions setting up or working with Github,or any other questions 
 regarding KU Programming Club, either ask us in the KUPG Slack channel (kuprogrammingclub.slack.com),
+
 or email one of us (zkb@ku.edu | jcroderman@gmail.com).
-Alternatively, since Github is required for EECS 448, you may refer to the class's tutorial here:
+Alternatively, since Github is required for EECS 448, you may refer to the class's tutorials here:
+
 https://wiki.ittc.ku.edu/ittc_wiki/index.php/EECS448:Lab1
+
 https://wiki.ittc.ku.edu/ittc_wiki/index.php/EECS448:Lab2
 
-- KUPC Co-Chairs Zach, Justin
+  -- KUPC Co-Chairs Zach and Justin
 
 ### <u>Meeting Information</u><br>
-#### Date: Wednesday, September 14<br>Time: 7:00pm<br>Place: TBD
+#### Date: Wednesday, September 14<br>Time: 7:00pm <br>Place: LEEP2 G411
 <br>
 This repository provides a home for the KU Programming Group's weekly problems
 for the 2017-2018 school year. Solutions created by members may be committed into
