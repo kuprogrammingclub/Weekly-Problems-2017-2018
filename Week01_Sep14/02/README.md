@@ -18,3 +18,5 @@ It is guaranteed that the array will be non-empty, and will have only one value 
 ``Output``
 
 `4`
+
+(Adapted from https://github.com/codingforinterviews)
