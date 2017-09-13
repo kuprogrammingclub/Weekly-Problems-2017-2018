@@ -15,7 +15,7 @@ on practice.
 This repository provides a home for the KU Programming Group's weekly problems
 for the 2017-2018 school year. Solutions created by members may be committed into
 the corresponding problem's folder as a subfolder named after the committer.<br>
-e.g. /Weekly-Problems-2016-2017/Week01_Sep14/Beginner2/jdoe/prog.java
+e.g. /Weekly-Problems-2017-2018/Week01_Sep14/Beginner2/jdoe/prog.java
 
 
 
