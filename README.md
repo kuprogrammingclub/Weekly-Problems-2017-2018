@@ -1,13 +1,16 @@
 # KU Programming Club <br> 2017-2018
 
 ### Preface
-If you have any trouble getting started with Github, or have other questions Shaina
-and I (Blaine) will be in the Slack channels.  Either direct message or get ahold
-of us through the #Programming-Club channel.  If there's enough interest we might
-do a quick review of Github during the next meeting for those that need some hands
-on practice.
 
-- KUPC Co-Chairs Blaine, Shaina
+Hey all,
+If you have any questions setting up or working with Github,or any other questions 
+regarding KU Programming Club, either ask us in the KUPG Slack channel (kuprogrammingclub.slack.com),
+or email one of us (zkb@ku.edu | jcroderman@gmail.com).
+Alternatively, since Github is required for EECS 448, you may refer to the class's tutorial here:
+https://wiki.ittc.ku.edu/ittc_wiki/index.php/EECS448:Lab1
+https://wiki.ittc.ku.edu/ittc_wiki/index.php/EECS448:Lab2
+
+- KUPC Co-Chairs Zach, Justin
 
 ### <u>Meeting Information</u><br>
 #### Date: Wednesday, September 14<br>Time: 7:00pm<br>Place: TBD
